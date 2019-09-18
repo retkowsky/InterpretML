@@ -1,4 +1,4 @@
-InterpretML
+Azure InterpretML
 
 nterpretML is an open-source python package for training interpretable models and explaining blackbox systems. Interpretability is essential for:
 
