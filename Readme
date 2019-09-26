@@ -1,7 +1,6 @@
 Azure InterpretML
 https://github.com/Microsoft/interpret
 
-
 InterpretML is an open-source python package for training interpretable models and explaining blackbox systems. 
 Interpretability is essential for:
 - Model debugging - Why did my model make this mistake?
@@ -20,6 +19,5 @@ This makes them as accurate as random forests and gradient boosted trees, and al
 
 In addition to EBM, InterpretML also supports methods like LIME, SHAP, linear models, partial dependence, decision trees, and rule lists. 
 The package makes it easy to compare and contrast models to find the best one for your needs.
-
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
